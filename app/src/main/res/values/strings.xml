@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BeReal Files</string>
+    <string name="directory">Directory</string>
+    <string name="file">File</string>
+    <string name="back">Back</string>
+    <string name="upload">Upload</string>
+    <string name="create_folder">Create folder</string>
+    <string name="delete">Delete</string>
+    <string name="picture">Picture</string>
+    <string name="close">Close</string>
+</resources>
