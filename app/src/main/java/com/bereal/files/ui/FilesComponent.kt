@@ -58,7 +58,6 @@ fun FilesComponent(
     Box(
         modifier = Modifier.fillMaxSize()
     ) {
-
         FloatingActionButton(
             modifier = Modifier
                 .padding(all = 32.dp)
